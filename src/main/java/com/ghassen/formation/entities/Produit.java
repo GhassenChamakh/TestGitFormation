@@ -8,6 +8,7 @@ import java.util.Date;
 @Entity
 public class Produit {
     //commentaire
+    //commentaire 1.2
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long idProduit;
